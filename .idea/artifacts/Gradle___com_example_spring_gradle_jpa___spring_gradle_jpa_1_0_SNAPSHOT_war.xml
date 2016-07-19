@@ -5,10 +5,10 @@
       <options external-project-path="$PROJECT_DIR$" />
     </properties>
     <root id="archive" name="spring-gradle-jpa-1.0-SNAPSHOT.war">
-      <element id="javaee-facet-resources" facet="spring-gradle-jpa/web/Web Gradle : spring-gradle-jpa-1.0-SNAPSHOT.war" />
+      <element id="javaee-facet-resources" facet="account/web/Web Gradle : spring-gradle-jpa-1.0-SNAPSHOT.war" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="spring-gradle-jpa" />
+          <element id="module-output" name="account" />
           <element id="dir-copy" path="$PROJECT_DIR$/build/resources/main" />
         </element>
         <element id="directory" name="lib">
